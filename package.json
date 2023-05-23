@@ -1,0 +1,24 @@
+{
+  "name": "sample-npm-package-aditya-sonar",
+  "version": "4.0.1",
+  "description": "Sample npm package created to calculate power of number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaSonar/sample-npm-package-aditya-sonar.git"
+  },
+  "keywords": [
+    "npm",
+    "aditya",
+    "sonar"
+  ],
+  "author": "Aditya Sonar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaSonar/sample-npm-package-aditya-sonar/issues"
+  },
+  "homepage": "https://github.com/AdityaSonar/sample-npm-package-aditya-sonar#readme"
+}
