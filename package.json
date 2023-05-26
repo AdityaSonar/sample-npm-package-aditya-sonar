@@ -1,7 +1,6 @@
 {
   "name": "sample-npm-package-aditya-sonar",
   "version": "4.0.2",
-  "private": true,
   "main": "dist/index.js",
   "module": "dist",
   "files": [
